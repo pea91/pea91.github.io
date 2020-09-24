@@ -1,0 +1,22 @@
+h1{
+    color: black;
+    text-transform: capitalize;
+}
+.blue_block{
+    color: rgb(83, 49, 83);
+    font-size: large;
+}
+.contact{
+    border: thick double #32a1ce;
+    text-align: right;
+    margin-left: 150px;
+}
+.photo{
+    float: left;
+}
+li{
+    margin-top: 30px;
+}
+ul{
+    list-style-type: circle;
+}
