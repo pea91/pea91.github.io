@@ -1,0 +1,84 @@
+body{
+    background-color: #121116;
+    background-image: url("https://user-images.githubusercontent.com/46169825/94346241-ecbbe100-0033-11eb-80d3-3bbe45a6ad82.png");
+    background-repeat: space repeat;
+}
+h1 {
+    /* Style for "WE ARE SOC" */
+    width: 170px;
+    height: 14px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    /* Text style for "WE ARE SOC" */
+    letter-spacing: 1px;
+    margin-left: 11px;
+}
+
+.logo {
+    /* Style for "Logo" */
+    width: 112px;
+    height: 36px;
+}
+
+.separator {
+    /* Style for "Separator" */
+    width: 230px;
+    height: 1px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 21px;
+}
+
+.fb {
+    /* Style for "Facebook" */
+    width: 7px;
+    height: 15px;
+    margin-left: 35px;
+}
+
+.tweter {
+    /* Style for "Tweter" */
+    width: 15px;
+    height: 12px;
+    margin-left: 35px;
+}
+
+.google {
+    /* Style for "Google" */
+    width: 16px;
+    height: 15px;
+    margin-left: 35px;
+}
+
+.dribble {
+    /* Style for "Dribble" */
+    width: 15px;
+    height: 15px;
+    margin-left: 35px;
+}
+
+.footer {
+    /* Style for "© 2014 - K" */
+    width: 250px;
+    height: 16px;
+    color: #ffffff;
+    font-family: "Open Sans - Semibold";
+    font-size: 15px;
+    font-weight: 400;
+    /* Text style for "Kasper" */
+    color: #00c7fc;
+    margin-top: 80px;
+}
+.main{
+    width: 250px;
+    height: 262px;
+    margin: auto;
+    margin-top: 180px;
+}
+header{
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
