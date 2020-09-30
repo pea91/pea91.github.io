@@ -57,6 +57,10 @@ text-transform: uppercase;
     padding-bottom: 15px;
 
 }
+section :hover{
+    color: #fcf9f9;
+    background-color: #26b4b7;
+}
 .design3{
     width: 170px;
     height: 120px;
@@ -81,4 +85,9 @@ image{
     text-align: center;
     padding: 2px;
 }
-
+footer{
+    margin-top: 35px;
+    margin-right: 98px;
+    text-align: center;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+}
