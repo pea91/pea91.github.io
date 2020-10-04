@@ -1,0 +1,67 @@
+body {
+    background-color: #fdde7e;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+}
+
+.one {
+    padding-left: 50px;
+    width: 33%;
+    border: 1px solid grey;
+    margin-right: 50px;
+
+}
+
+.two {
+    padding-left: 50px;
+    width: 33%;
+    border: 1px solid grey;
+    margin-right: 50px;
+}
+
+.three {
+    padding-left: 50px;
+    width: 33%;
+    border: 1px solid grey;
+    margin-right: 50px;
+}
+
+.smoke,
+.smoke1,
+.smoke2 .price,
+.price1,
+.price2 {
+    padding-left: 30px;
+}
+
+.box,
+.box1,
+.box2 {
+    position: relative;
+}
+
+.bean,
+.bean1,
+.bean2 {
+    position: absolute;
+    left: 40px;
+    top: 120px;
+}
+
+.desc,
+.desc1,
+.desc2 {
+    font-family: "Lato Light";
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: 26px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
