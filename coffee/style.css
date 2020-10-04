@@ -32,7 +32,8 @@ main {
 
 .smoke,
 .smoke1,
-.smoke2 .price,
+.smoke2,
+.price,
 .price1,
 .price2 {
     padding-left: 30px;
